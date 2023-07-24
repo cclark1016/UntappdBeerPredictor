@@ -11,7 +11,7 @@ import xgboost as xgb
 #import gradio.outputs as gro
 from scipy import stats
 from gradio import Interface
-from gradio.components import Markdown, Row, Column, Slider, Dropdown, CheckboxGroup, Button, Textbox, Dataframe
+from gradio.components import Markdown,Slider, Dropdown, CheckboxGroup, Button, Textbox, Dataframe # Row, Column, 
 import category_encoders
 from category_encoders import TargetEncoder
 
@@ -232,8 +232,8 @@ with gr.Blocks(title=title, theme = theme) as demo:
     # Markdown("""---""")
    
     submit_btn1 = gr.Button("Predict")
-    with Row():        
-        with Column():
+    with gr.inputs.Row():        
+        with gr.inputs.Column():
             # BeerName = gr.components.Textbox(label='Beer Name (not required)', value = 'New Beer 1')
             # ABV = gr.components.Slider(label="ABV %", minimum=0, maximum=20, value=4.5, step=.1)
             # IBU = gr.components.Slider(label="IBU", minimum=0.0, maximum=200, value=41, step=1)
@@ -259,7 +259,7 @@ with gr.Blocks(title=title, theme = theme) as demo:
             
             
         #CREATE OUTPUTS
-        with gr.Column(visible=True) as output_col:
+        with gr.inputs.Column(visible=True) as output_col:
             gr.Markdown("<h2><center><b>Untappd Score Prediction</b></center></h2>")
             score_predict_str = gr.Label(label="XGBoost Regressor")
         
@@ -282,7 +282,7 @@ with gr.Blocks(title=title, theme = theme) as demo:
 
 
     # Create a separate row for the output of filter_beers function
-    with gr.Row():
+    with gr.inputs.Row():
         with gr.Column():
             gr.Markdown("<h1><center><b>Similar Beers</b></center></h1>")
             #similar_beers_df = gro.Dataframe(label="", type="pandas")
