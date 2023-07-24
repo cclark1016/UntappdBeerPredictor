@@ -1,0 +1,406 @@
+Brewery,Beer Name,Number of Ratings Beer,ABV,IBU,Style,Brewery Style,Region,State,Flavor_bitter,Flavor_sweet,Flavor_sour,Flavor_salty,Flavor_fruity,Flavor_citrus,Flavor_berry,Flavor_apple,Flavor_pear,Flavor_tropical,Flavor_pine,Flavor_floral,Flavor_spicy,Flavor_herbal,Flavor_nutty,Flavor_caramel,Flavor_chocolate,Flavor_coffee,Flavor_toasty,Flavor_smoky,Hop_cascade,Hop_centennial,Hop_chinook,Hop_citra,Hop_columbus,Hop_crystal,Hop_fuggle,Hop_goldings,Hop_hallertau,Hop_magnum,Hop_nugget,Hop_saaz,Hop_simcoe,Hop_tettnang,Hop_warrior,Hop_willamette
+Aslin Beer Company,Double Orange Starfish,28835,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Master of Karate,26401,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Master of Oranges,22769,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Orange Starfish,21604,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Volcano Sauce,21087,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Power Moves,21063,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Baby Shark,17464,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mind the Hop,16608,0.094,148,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Laser Raptors,16600,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Triple Orange Starfish,14838,0.12,42,IPA - Triple New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Grovestand,13256,0.065,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Trite,12878,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Nuances of Meaning,12618,0.06,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Stellar Parallax,12486,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Astro Zombie,11927,0.067,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Beer Drinking Is Not A Crime,11525,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sensei (Double Dry Hopped),11524,0.111,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Neutrino (Double Dry Hopped),11498,0.062,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bringing Sexy Back,11359,0.064,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sorbet,10916,0.065,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,VelociRabbit,10299,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Bringing Extra Sexy Back,9953,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,A Small Town In Ontario,9793,0.06,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Johann the Mango Thief,9741,0.094,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,You Call That A Knife?,8596,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,"How Now Brown Cow (w/ Peanut Butter, Chocolate & Coffee)",8429,0.06,28,Stout - Milk / Sweet,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johann Buys a Broat,7856,0.094,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,CAW,7529,0.091,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pew Pew Pew,7315,0.128,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Drippin' on the Cheap,7068,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Selfish Predator,6847,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bale,6704,0.135,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johann and the Giant Peach,6353,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Unicorn Vomit,6258,0.128,42,IPA - Triple New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Recess,6257,0.055,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,How Now Brown Cow (w/ Coffee & Maple),6210,0.06,28,Stout - Milk / Sweet,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gose w/ Blackberries & Raspberries,5985,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,No Backsies,5910,0.055,15,Wheat Beer - Hefeweizen,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Old Town Lager,5898,0.04,19,Lager - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Passion of Johann,5852,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Juan De Bolas,5624,0.15,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Champion of the Sun,5515,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Vapid,5507,0.087,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Cortés & His Men,5421,0.07,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johann Needs a Bigger Broat,5383,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Soaking the Dishes,5369,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Implication,5212,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Totally Cannon,5139,0.05,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Glamping,4954,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sprechen Sie Deutsch?,4895,0.15,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,El Frutero w/ Watermelon,4808,0.05,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Stripes,4698,0.15,60,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Apizza!,4591,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Cocoa Mostra,4575,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Man Eating Toaster,4527,0.065,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Summer Fruittata,4418,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Passion Fruit & Mango,4356,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Daddy Juice,4328,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Mocha,4320,0.135,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dreams,4107,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Don't Dial In And Focus,4097,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Padrino,4042,0.15,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Genius Kitchen,4040,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tyson’s Grandma,3920,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,DM It To My Inbox,3834,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pisghetti Western,3793,0.15,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dunley Place,3743,0.08,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pinkies Up,3731,0.184,77,IPA - Quadruple,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,With A Baseball Bat,3721,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,50/50 Bar,3708,0.065,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hazy Orange Tears,3454,0.055,15,Sour - Other,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Living To Get Radical,3401,0.093,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Ticklish And Insecure,3370,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hot Swap,3343,0.0819999999999999,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hankering For Hands,3298,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Much Ado,3283,0.045,20,Lager - Helles,Regional Brewery,Mideast,VA,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Belly Shirts,3234,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Stating the Obvious,3161,0.05,22,Lager - Vienna,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Moonshield,3143,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,4odas Bro,3098,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,YP:MP,3013,0.085,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rookie Card,2946,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Macarooned,2945,0.1,30,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buongiorno,2932,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Fragile Kind,2827,0.047,31,Pilsner - Czech / Bohemian,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Aslin Beer Company,Mom Jeans,2742,0.12,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Doch,2709,0.062,23,Märzen,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Big Daddy Bronco,2704,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Take It In To Cooperation,2692,0.05,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Predictable Patterns,2684,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,De Gens,2673,0.054,25,Pilsner - German,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aslin Beer Company,El Rio,2670,0.15,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bringo,2645,0.074,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Drive-In Copycat,2630,0.06,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Kokomo,2623,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Smashin’ Berries,2618,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,No Bake,2608,0.165,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Master of Karate (Double Dry Hopped),2591,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,How Now Brown Cow w/ Coffee & Coconut,2586,0.06,28,Stout - Milk / Sweet,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,That’s Facts,2569,0.054,29,Pilsner - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,JENERIK,2566,0.13,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Browser History,2507,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Esperante,2506,0.045,24,Lager - Pale,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Vapid (Double Dry Hopped),2419,0.087,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Gose w/ Passion Fruit & Dragon Fruit,2411,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,How Now Brown Cow w/ Pumpkin Spice,2377,0.06,24,Pumpkin / Yam Beer,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Runaway Train,2346,0.068,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Purple Banana,2339,0.15,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,CHIRP,2327,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,That Floor Guy,2286,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pink Starfish,2285,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Brunchies,2278,0.07,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Clear Nights,2277,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Vogue Mania,2277,0.094,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gose w/ Raspberry & Key Lime,2275,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Interlopers,2242,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Infrared Starfish,2226,0.057,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Green Starfish,2221,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Familiarity Breeds Content,2181,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Cat Theory,2122,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gakozing!,2084,0.065,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,San Saba,2068,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Isolation Anniversary Beer,2057,0.094,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hawaiian Lush,2052,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tokyo Smoke,2035,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dad Jokes,2032,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Now More Than Ever,2019,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Purple Starfish,1983,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Moral Grandstanders,1960,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Daiquiri!,1958,0.07,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Corvette Steve,1956,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Promotion,1953,0.065,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Honeymoon Pajamas,1906,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Soggy Frog,1896,0.085,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Nose Beers,1872,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Locker 18,1859,0.075,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Green Hell,1842,0.065,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Significant Other,1834,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Blue Starfish,1832,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Scampi,1828,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Full Basic,1819,0.05,24,Lager - Dark,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Yellow Starfish,1818,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bird Leaf,1815,0.047,29,Pilsner - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Cash Only,1815,0.065,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dead Inside,1807,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,There Gose The Diet,1805,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Green Starfish,1803,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,That Shiz Slaps,1798,0.095,24,Bock - Doppelbock,Regional Brewery,Mideast,VA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Karate In the Garage,1774,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Blue Starfish,1767,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Red Invasion,1759,0.07,63,IPA - Rye,Regional Brewery,Mideast,VA,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Castle Hill,1727,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,La Fleurs,1726,0.1,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,New Beer Idea Number 1,1708,0.068,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Business Showers,1704,0.052,33,Pale Ale - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Cocoa Mapalm (15%),1703,0.15,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Feed My Existence,1674,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mattapoisett,1654,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Luling (Bourbon),1651,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,It's Okay Baby,1649,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rich Girl,1642,0.13,50,Barleywine - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dad Bod,1639,0.08,38,Stout - Imperial / Double Milk,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gose w/ Apricots,1635,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Signature Move,1618,0.065,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,San Diego,1614,0.145,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Larping 4 Love,1598,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Brewer Who Laughs,1595,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,One Star,1591,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Pink,1574,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Boston,1567,0.12,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Prolly,1555,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Alexandria,1548,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Big Silly,1523,0.07,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sexy Denim Man,1514,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Grasshopper,1512,0.05,40,Pale Ale - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Save Second Base,1509,0.065,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Disco Biscuits,1501,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Indigo,1498,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,As You Wish,1497,0.1,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,South Pickett,1497,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Blue,1484,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Saigon,1480,0.18,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Notes From the Underground,1479,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sous Chef,1478,0.1,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Yellow,1471,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johnny Hammersticks,1470,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hush,1470,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Nend Sudes,1468,0.12,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Which Clock Tower?,1467,0.084,50,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Orange,1463,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Theta-d,1463,0.054,40,Pale Ale - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Amaroo,1456,0.1,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Syrtaki,1449,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mexican Hot Chocolate (15%),1448,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sexy Time...I Like!,1447,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,NeoBlast,1444,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gose w/ Apricots & Blackberries,1435,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johann Discovers A Hammock,1433,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Irish Heritage Luck Charm,1431,0.094,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Lowered Expectations,1424,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bunk Beds,1423,0.08,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Chili Status,1420,0.063,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Aslin Beer Company,Corporate Hype,1418,0.087,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hammer & Nail,1417,0.096,26,Scotch Ale / Wee Heavy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Wraparound Eyes,1413,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Philadelphia,1409,0.16,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sloth Loves Chunk,1388,0.16,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Oh Jackie Wilson,1387,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Green,1358,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Screech,1335,0.12,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,"Berliner Weisse w/ Boysenberry, Blueberry, & Blackberry",1326,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pittsburgh,1322,0.165,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rocket Surgery,1312,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Next Beer Due: 3/22,1309,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,"Wait, What?",1294,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Colchester,1280,0.145,70,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Madurai,1273,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Content Currently Unavailable,1273,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Disco Turkey,1267,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Cidiots,1260,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Next Beer Due: 4/5,1242,0.095,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Just Ad-Lib It,1220,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mango Freeze,1219,0.06,9,Sour - Smoothie / Pastry,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,El Frutero w/ Mango,1217,0.05,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sparkling Wine Showers,1215,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Skidattle,1206,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Fancy Sauce,1194,0.1,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Reston,1188,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Never A Bride,1159,0.045,25,Farmhouse Ale - Saison,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Cây Va Ni,1145,0.18,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Baby Dunley,1142,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Suburban Home,1140,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Orchid (Batch 2)(15%),1137,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Lighthouses Rule,1131,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Purple Starfish,1130,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Festbier,1126,0.055,22,Festbier,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,West Coast Starfish,1119,0.057,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Glasses of Nerdicon,1116,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,West Coast Cortés & His Men,1115,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Nope Rope,1114,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Saulé,1112,0.095,37,Porter - Imperial / Double Baltic,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Anthemic (Azacca),1111,0.045,29,Pilsner - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Laser Cakes,1105,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,2 Year Anniversary DIPA,1103,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Business Chicken,1095,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Dùa,1088,0.18,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Leather,1084,0.13,66,Barleywine - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Role Models,1082,0.055,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Booghina,1081,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Picnic,1075,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Elder Scrolls: Sweet Roll,1073,0.135,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Cà Phê,1064,0.125,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Math Mode,1061,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,"How Now Brown Cow w/ Maple, Coffee & Bacon",1058,0.06,28,Stout - Milk / Sweet,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,West Coast Baby Shark,1055,0.055,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Old Magic Wand,1054,0.063,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Trans AM Trav,1049,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dover,1035,0.13,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tee Tee,1033,0.06,15,Sour - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,4th Anniversary Sour,1033,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Great White Buffalo,1032,0.14,42,Wheat Beer - Wheat Wine,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Next Beer Due: 4/19,1018,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Infrared Starfish,1017,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Discount,1011,0.065,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gator Farm 2.0,1008,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Demonic Woodland Critters,1004,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,2 Year Anniversary Cotton Stout,999,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Durango Doug,998,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Breezy Frog,993,0.085,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Crack A Rat,990,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Earth Daze,987,0.055,15,Wheat Beer - Hefeweizen,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Chubby Unicorns,986,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Silk (4 Year Anniversary Stout),976,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,New Age Person,973,0.084,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Finkle Is Einhorn,972,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tarantula Hawk,967,0.092,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mule Fule,966,0.085,40,IPA - Imperial / Double Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Anaheim,964,0.16,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Crumb Snatchers,964,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Wax On,963,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Xergiok,952,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pterodactyl Trampoline,942,0.065,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gran Chieti,937,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Elder Scrolls: Paarthurnax,934,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Cherry-Lime Freeze,921,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Prison Pony,919,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Waiting,916,0.15,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Ashburn,910,0.12,48,Barleywine - English,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tiny Thugs,906,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rubber Walrus Protector,905,0.065,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Wax Off,898,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Describe the Ruckus,892,0.093,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Bull of the Woods,881,0.13,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Gator Farm,878,0.061,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Fenwick,877,0.115,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,West Chester,871,0.13,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Johann and the Dancing Bears,867,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Corolla,865,0.145,50,Barleywine - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Fizzy Frog,859,0.085,34,IPA - Sour,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Honolulu,857,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Soggy Toast,857,0.064,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Raspberry & Mango,849,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Smallman,844,0.065,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Greenville,842,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,UFOTOFU,840,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Chocolate Orange Starfish,839,0.057,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Variegata,831,0.1,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Why?,828,0.055,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Awkwardly Sweet,827,0.07,34,IPA - Sour,Regional Brewery,Mideast,VA,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,New Orleans,824,0.135,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Belligerent Attempts,823,0.075,42,Pilsner - Imperial / Double,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Aslin Beer Company,Too Soon?,821,0.1159999999999999,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Nuclear Pasta,819,0.057,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Loot,810,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Watertown,807,0.16,66,Barleywine - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Udder Covers,806,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Pear & Ginger,804,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Saco,803,0.145,50,Barleywine - Other,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Double Blasticity,800,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tap Out,793,0.063,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Chantilly,790,0.125,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Arlington,782,0.115,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Elder Scrolls: Night Mother's Blood,779,0.045,9,Sour - Fruited Gose,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Ask Your Mom,778,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Side Daddy,774,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Black Friday Violet,771,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mostly M's,770,0.083,43,IPA - Imperial / Double New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Reis,768,0.045,18,Lager - Japanese Rice,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Wink Wink,759,0.07,59,IPA - American,Regional Brewery,Mideast,VA,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,IPA #2 (Brewer's Series),747,0.07,37,IPA - Milkshake,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aslin Beer Company,Progeny Interstellar Planet Eating Creature,747,0.15,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,How Now Brown Cow w/ Coffee & Hazelnut,743,0.06,28,Stout - Milk / Sweet,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Type At Me Bro?!,739,0.091,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Budai,736,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Borroworrob,730,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,El Frutero w/ Passion Fruit,724,0.05,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Broadlands,722,0.13,48,Barleywine - English,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Orlando,714,0.16,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Buku Maureen,709,0.18,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hella Hops,707,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Haka,705,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Figgy Pudding,700,0.13,48,Barleywine - English,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Trophy Hubby,699,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,She,697,0.067,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Peach & Apricot,696,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Droopy Mits,691,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Virginia Beach,690,0.13,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Slippy Yips,685,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pegasus Puke,684,0.055,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Humanities Child,684,0.045,33,IPA - Brut,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Ahoyo,680,0.065,34,IPA - Sour,Regional Brewery,Mideast,VA,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sure,678,0.094,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Too Much Hops,675,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Underground,671,0.054,75,Pale Ale - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Squishy Yips,667,0.165,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Extra Extra Extra,657,0.11,87,IPA - Triple,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Southern Hospitality,651,0.05,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Deceiver,647,0.1,42,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Drippy Mits,646,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Orion,645,0.12,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Dreamy Mits,645,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Plum & Cherry,640,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Jaccuzz,631,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tenuous Grasp,629,0.045,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Sticky Yips,618,0.165,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Fair Weather Friend,616,0.065,25,Farmhouse Ale - Saison,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Aces Captain,613,0.055,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,License Tequil,611,0.055,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Hold Me,600,0.12,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Do You Want To Make It Pink?,600,0.07,33,IPA - Brut,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rules Are Rules,598,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Pittsburgh²,597,0.13,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,You Call That A Knife? (Double Dry Hopped),596,0.083,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,IPA #4 (Brewer's Series),593,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Next Beer Due: 3/8,592,0.085,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,El Frutero w/ Peach,591,0.05,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Leapling,588,0.14,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Time For That,583,0.13,66,Barleywine - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Progeny: From Crook To Cook,583,0.1,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,The Rambler,574,0.12,66,Barleywine - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Rich Mahogany,572,0.12,48,Barleywine - English,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Kiss Me,570,0.12,46,Stout - Imperial / Double Coffee,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Birmingham,567,0.11,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Wahgo,560,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Berliner Weisse w/ Toasted Coconut & Lemon,557,0.035,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Stacked & Strapped,553,0.045,8,Sour - Fruited Berliner Weisse,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Shenanigans,552,0.091,151,IPA - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Kodiak Mountain,550,0.14,42,Wheat Beer - Wheat Wine,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Maybe,546,0.065,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Ares,545,0.12,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Firenze,545,0.115,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Ashburn Village,544,0.13,48,Barleywine - English,Regional Brewery,Mideast,VA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Progeny: No Raisins,543,0.1,47,Stout - Imperial / Double Oatmeal,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Einhorn Is Finkle,541,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Kerf,539,0.13,51,Strong Ale - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Marks of Civilization,532,0.07,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Mexican Hot Chocolate,531,0.1,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Tease Me,525,0.12,35,Stout - Imperial / Double Pastry,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Progeny: Soul Cry,523,0.114,48,Stout - Imperial / Double,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Can You Dig It?,519,0.055,37,Bitter - Extra Special / Strong (ESB),Regional Brewery,Mideast,VA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,IPA #1 (Brewer's Series),518,0.066,40,IPA - New England / Hazy,Regional Brewery,Mideast,VA,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,West Coast Dead Inside,506,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Palace,503,0.047,29,Pilsner - Other,Regional Brewery,Mideast,VA,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Raspberry Lime Freeze,503,0.06,11,Sour - Fruited,Regional Brewery,Mideast,VA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aslin Beer Company,Semper Gumby,500,0.055,59,IPA - American,Regional Brewery,Mideast,VA,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
