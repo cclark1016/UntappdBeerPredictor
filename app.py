@@ -232,8 +232,8 @@ with gr.Blocks(title=title) as demo:  #, theme = theme
     # Markdown("""---""")
    
     submit_btn1 = gr.Button("Predict")
-    with gr.inputs.Row():        
-        with gr.inputs.Column():
+    with gr.Row():        
+        with gr.Column():
             # BeerName = gr.components.Textbox(label='Beer Name (not required)', value = 'New Beer 1')
             # ABV = gr.components.Slider(label="ABV %", minimum=0, maximum=20, value=4.5, step=.1)
             # IBU = gr.components.Slider(label="IBU", minimum=0.0, maximum=200, value=41, step=1)
@@ -259,7 +259,7 @@ with gr.Blocks(title=title) as demo:  #, theme = theme
             
             
         #CREATE OUTPUTS
-        with gr.inputs.Column(visible=True) as output_col:
+        with gr.Column(visible=True) as output_col:
             gr.Markdown("<h2><center><b>Untappd Score Prediction</b></center></h2>")
             score_predict_str = gr.Label(label="XGBoost Regressor")
         
@@ -282,7 +282,7 @@ with gr.Blocks(title=title) as demo:  #, theme = theme
 
 
     # Create a separate row for the output of filter_beers function
-    with gr.inputs.Row():
+    with gr.Row():
         with gr.Column():
             gr.Markdown("<h1><center><b>Similar Beers</b></center></h1>")
             #similar_beers_df = gro.Dataframe(label="", type="pandas")
