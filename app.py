@@ -222,9 +222,9 @@ The input variables in this model explain <b>65%</b> of the variation in the Unt
 # To use the app, click on one of the examples, or adjust the values of the seven beer score predictors, and click on Analyze. ✨ 
 # """ 
 
-theme = gr.themes.Default()#primary_hue="amber"
+#theme = gr.themes.Default()#primary_hue="amber"
 
-with gr.Blocks(title=title, theme = theme) as demo:
+with gr.Blocks(title=title) as demo:  #, theme = theme
     Markdown(f"# {title}")
     Markdown(description1)
     # Markdown("""---""")
