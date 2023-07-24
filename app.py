@@ -17,7 +17,7 @@ from category_encoders import TargetEncoder
 #Load DFs
 
 #Set up DF for filtered beers
-bb_df = pd.read_csv('beer_brewery_imputed.csv')
+bb_df = pd.read_csv('beer_brewery_imputed_githubtest.csv')
 
 #Set up DF for percentiles (currently only includes beers with 500 or more reviews)
 bb_df_percentile = pd.read_csv('bb_df_testing.csv')
